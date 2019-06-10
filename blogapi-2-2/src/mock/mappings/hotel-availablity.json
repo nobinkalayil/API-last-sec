@@ -1,0 +1,22 @@
+{
+  "request": {
+    "urlPath": "/snowdrop/search/hotels/availabilities",
+    "method": "GET",
+    "queryParameters": {
+      "bookingChannel": {
+        "equalTo":"WEB"
+      }
+    },
+    "basicAuthCredentials" : {
+      "username" : "jeff@example.com",
+      "password" : "jeffteenjefftyjeff"
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "hotel-availblity-res.json"
+  }
+}
