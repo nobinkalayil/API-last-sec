@@ -1,0 +1,87 @@
+{
+  "properties": [
+    {
+      "code": "LONSOH",
+      "brand": "HUB",
+      "suggestion": "hub London Soho",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136549,
+          51.513614
+        ]
+      }
+    },
+    {
+      "code": "ILFRED",
+      "brand": "PI",
+      "suggestion": "London Ilford",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0447568,
+          51.576962
+        ]
+      }
+    },
+    {
+      "code": "LONCRE",
+      "brand": "PI",
+      "suggestion": "Derry / Londonderry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.278844,
+          54.992376
+        ]
+      }
+    },
+    {
+      "code": "LONRIC",
+      "brand": "PI",
+      "suggestion": "London Richmond",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.291975,
+          51.466948
+        ]
+      }
+    },
+    {
+      "code": "LONARC",
+      "brand": "PI",
+      "suggestion": "London Archway",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.135969,
+          51.565884
+        ]
+      }
+    }
+  ],
+  "managedPlaces": [],
+  "places": [
+    {
+      "suggestion": "London, UK",
+      "placeId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
+    },
+    {
+      "suggestion": "London Kings Cross, Euston Road, London, UK",
+      "placeId": "ChIJmxO_XDwbdkgR-zjbcc_J6Xs"
+    },
+    {
+      "suggestion": "London Euston, London, UK",
+      "placeId": "ChIJNVch-SMbdkgRqv1PBlyKQqU"
+    },
+    {
+      "suggestion": "London City Airport, London, UK",
+      "placeId": "ChIJwflgaYio2EcRkocxkiDA2bw"
+    },
+    {
+      "suggestion": "London Heathrow Airport (LHR), Longford, UK",
+      "placeId": "ChIJ6W3FzTRydkgRZ0H2Q1VT548"
+    }
+  ]
+}

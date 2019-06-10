@@ -1,0 +1,17 @@
+{
+  "request": {
+    "urlPath": "/v1/autocomplete",
+    "method": "GET",
+    "basicAuthCredentials" : {
+      "username" : "jeff@example.com",
+      "password" : "jeffteenjefftyjeff"
+    }
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "hotel-autocomplete-res.json"
+  }
+}
